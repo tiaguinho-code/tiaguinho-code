@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tiago</h1>
 <h3 align="center">A Computer interested Chemist from Switzerland</h3>
 
-- 🔭 I’m currently working on [**NMRcraft**](https://github.com/mlederbauer/NMRcraft)
+- 🔭 I’m currently working on [**Implementing Descriptors into Language models for Molecular Property Prediction**](https://gitlab.ethz.ch/digital-chemistry-laboratory/smiles-cgr-transformers)
 
 - 🌱 I’m currently learning **How to apply ML in the field of Chemistry**
 
